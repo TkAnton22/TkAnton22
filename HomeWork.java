@@ -40,3 +40,5 @@ class HomeWork {
 		System.out.println(a >= b?"a >= b" : "a < b");
 	}
 }
+
+//input for test
